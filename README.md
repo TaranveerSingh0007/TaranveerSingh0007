@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey, I'm Taranveer Singh Jassal<br><br>- 🎓 **1st Year CSE Core Student** at Chandigarh University<br>- 🎂 **18 years old** and passionate about technology<br>- 💻 Currently learning and working with **C & C++**<br>- 🌱 Exploring **Programming, Data Structures & Problem Solving**<br>- 🚀 Building my skills one project at a time<br>- 🧠 Always curious to learn something new<br>- 🔥 Future-focused and excited about the world of **Software Development**<br>- 📌 **Current Focus:** C • C++ • DSA • Problem Solving<br>- 🤝 Open to learning, collaborating, and building cool projects<br><br> 
 
-div align="center">
+<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
